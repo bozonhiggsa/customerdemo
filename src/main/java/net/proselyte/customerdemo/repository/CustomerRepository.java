@@ -1,6 +1,6 @@
-package net.proselyte.customerdemo.repository;
+package net.proselyte.customerDemo.repository;
 
-import net.proselyte.customerdemo.model.Customer;
+import net.proselyte.customerDemo.model.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

@@ -1,4 +1,4 @@
-package net.proselyte.customerdemo;
+package net.proselyte.customerDemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

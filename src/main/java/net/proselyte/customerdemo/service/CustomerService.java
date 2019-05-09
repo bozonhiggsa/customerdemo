@@ -1,6 +1,6 @@
-package net.proselyte.customerdemo.service;
+package net.proselyte.customerDemo.service;
 
-import net.proselyte.customerdemo.model.Customer;
+import net.proselyte.customerDemo.model.Customer;
 
 import java.util.List;
 

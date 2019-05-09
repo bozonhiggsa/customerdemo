@@ -1,7 +1,7 @@
-package net.proselyte.customerdemo.rest;
+package net.proselyte.customerDemo.rest;
 
-import net.proselyte.customerdemo.model.Customer;
-import net.proselyte.customerdemo.service.CustomerService;
+import net.proselyte.customerDemo.model.Customer;
+import net.proselyte.customerDemo.service.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

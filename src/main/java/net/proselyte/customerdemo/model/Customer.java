@@ -1,4 +1,4 @@
-package net.proselyte.customerdemo.model;
+package net.proselyte.customerDemo.model;
 
 import lombok.Getter;
 import lombok.Setter;

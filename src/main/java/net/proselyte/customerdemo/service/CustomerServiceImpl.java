@@ -1,8 +1,8 @@
-package net.proselyte.customerdemo.service;
+package net.proselyte.customerDemo.service;
 
 import lombok.extern.slf4j.Slf4j;
-import net.proselyte.customerdemo.model.Customer;
-import net.proselyte.customerdemo.repository.CustomerRepository;
+import net.proselyte.customerDemo.model.Customer;
+import net.proselyte.customerDemo.repository.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
